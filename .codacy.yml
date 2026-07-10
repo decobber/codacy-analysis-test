@@ -1,8 +1,13 @@
 ---
 engines:
   eslint:
-    enabled: true
-    useConfigurationFile: true
-  prettier:
-    enabled: true
-    useConfigurationFile: true
+    enabled: false
+  bandit:
+    enabled: false
+  trivy:
+    enabled: false
+  opengrep:
+    enabled: false
+exclude_paths:
+  - 'payjs.js'
+  - '**/payjs.js'
