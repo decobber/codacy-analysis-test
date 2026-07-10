@@ -6,3 +6,5 @@ engines:
   prettier:
     enabled: true
     useConfigurationFile: true
+  opengrep:
+    enabled: true
