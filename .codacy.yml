@@ -1,8 +1,4 @@
 ---
 engines:
-  eslint:
-    enabled: true
-    useConfigurationFile: true
-  prettier:
-    enabled: true
-    useConfigurationFile: true
+  opengrep:
+    enabled: false
